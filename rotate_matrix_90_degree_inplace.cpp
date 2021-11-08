@@ -1,4 +1,8 @@
 //Rotate given matrix by 90 degree in-place
+// Algorithm:-
+// 1. Transpose the matrix.
+// 2. Reverse the rows.
+
 
 class Solution {
 public:
